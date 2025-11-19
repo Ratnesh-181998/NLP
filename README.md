@@ -6,3 +6,13 @@ Step 2: Pick up categories to scale up the model on the based of products. (from
 Step 3: Categories should have at least 50 products.
 
 ![NLP Architecture Diagram](https://github.com/user-attachments/assets/e725ab74-70e6-406e-84c9-769dfce8818c)
+
+
+Project Overview:
+  There was a need to improve Search Experience by enhancing 
+existing search functionality on Apache Solr using NLP capabilities
+  Custom NLP modules in the form of ‘Category Classifier’, ‘String 
+Correction’ was developed to drive Category specific search and 
+Feature based search on Apache Solr
+  NLP solution was deployed on top of existing Search systems and  
+facilitated existing search functionality and not replaced it
